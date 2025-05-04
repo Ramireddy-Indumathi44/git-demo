@@ -1,1 +1,4 @@
 "collect data from user....."
+
+
+create an avator for user
